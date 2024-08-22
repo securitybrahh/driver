@@ -148,7 +148,7 @@ dnf alias for toolbox, rpm-ostree for removal, layering?
 
 fwupd, microcode, bios
 
-tuned, bat
+tuned, tlp
 
 hardened firewalld, networkmanager
 
