@@ -198,6 +198,8 @@ user agent of edge is best
 
 ## Servers
 
+## Music
+
 ## Backups
 
 Borg
@@ -208,7 +210,7 @@ deduplicating, compression, authenticated (assymetric) encryption (symmetric)
 
 ## Updates
 
-transaction, tree like, atomic, live-security, a/b, incremental, firmware/oem/modems, high-risk-magisk-lsposed
+transaction, tree like, atomic, live-security, a/b, incremental, firmware/oem/modems, high-risk-magisk-modules-lsposed-kernelsu-
 
 ## Charging
 
