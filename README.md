@@ -1,3 +1,5 @@
+[Why you should be running the MicroOS Desktop | Richard Brown](https://youtube.com/watch?v=lKYLF1tA4Ik) 
+
 coreos vs microos vs silverblue vs secureblue vs 
 
 sdcard vs hdd vs ssd vs cpu cache vs neural engine vs unified memory vs gpu
