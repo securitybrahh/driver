@@ -179,3 +179,10 @@ deduplicating, compression, authenticated (assymetric) encryption (symmetric)
 ## Updates
 
 transaction, tree like, atomic, live-security, a/b, incremental, firmware/oem/modems, high-risk-magisk-lsposed
+
+## Charging
+
+ups 
+solar
+high watt battery packs, volt*Ampere -> high
+home elecricity backup
