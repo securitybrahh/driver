@@ -122,6 +122,8 @@ cromite?
 
 edge ARM linux not available (maybe emulate with qemu/box86/rosetta-flatpack)
 
+hardenedmalloc in flatpack
+
 ### Macos
 
 You can test stuff here
