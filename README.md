@@ -1,3 +1,11 @@
+coreos vs microos vs silverblue vs secureblue vs 
+
+sdcard vs hdd vs ssd vs cpu cache vs neural engine vs unified memory vs gpu
+
+pci vs hdmi vs thunderbolt
+
+bare metal vs guest.
+
 # Driver
 
 My daily driver Config
@@ -122,7 +130,27 @@ cromite?
 
 edge ARM linux not available (maybe emulate with qemu/box86/rosetta-flatpack)
 
-hardenedmalloc in flatpack
+hardenedmalloc in flatpack, disable zram
+
+disable null passwords
+
+hardened ssh, kernel, disabled coredump,
+
+xwayland???, hardened dconf
+
+gnome extensions as a flatpack package
+
+MAC/DAC/umask/private home
+
+hardened chrony - correct timezone on pocket watch
+
+dnf alias for toolbox, rpm-ostree for removal, layering?
+
+fwupd, microcode, bios
+
+tuned, bat
+
+hardened firewalld, networkmanager
 
 ### Macos
 
