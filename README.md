@@ -18,11 +18,9 @@ generic computer name & strong pass phrase
 
 any privacy related prompt - disable.
 
-fix your timezone to some other country - if you are in New York, Ney York time is nice.
+fix your timezone to some other country - if you are not in New York, Ney York time is nice.
 
 disable touch id, siri etc
-
-
 
 Enable Firewall
 
@@ -94,3 +92,13 @@ wireguard config of mullvad
 ### Macos
 
 You can test stuff here
+
+adguard mac
+
+edge
+
+mullvad
+
+tor
+
+lulu
