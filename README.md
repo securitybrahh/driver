@@ -2,6 +2,8 @@
 
 My daily driver Config
 
+https://support.apple.com/en-us/HT201222 on mullvad browser autostart
+
 ## M1 Pro 32 GB
 
 buy a used one preferabilly with cash.
