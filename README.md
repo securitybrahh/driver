@@ -172,4 +172,10 @@ user agent of edge is best
 
 Borg
 
+deduplicating, compression, authenticated (assymetric) encryption (symmetric)
+
 ## Gaming
+
+## Updates
+
+transaction, tree like, atomic, live-security, a/b, incremental, firmware/oem/modems, high-risk-magisk-lsposed
