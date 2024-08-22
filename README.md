@@ -208,6 +208,10 @@ user agent of edge is best
 
 to verify risky url's first - fast forward, url haus better, only trusted domains though...
 
+### Human Experience
+
+https://github.com/dessant/buster
+
 ## Servers
 
 ## Music
