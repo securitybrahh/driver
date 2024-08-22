@@ -14,6 +14,14 @@ https://support.apple.com/en-us/HT201222 on mullvad browser autostart
 
 ## M1 Pro 32 GB
 
+keyboard maestro - commamd key to open launchpad,  
+
+command + e - finder
+
+option+tab - scroll through apps
+
+
+
 buy a used one preferabilly with cash.
 
 connect to a router with vpn / android with [vpnhotspot](https://github.com/Mygod/VPNHotspot)
