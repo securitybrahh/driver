@@ -162,7 +162,7 @@ fwupd, microcode, bios
 
 tuned, tlp
 
-hardened firewalld, networkmanager
+hardened firewalld, networkmanager, mac randomization, dnssec unbound,
 
 ### Macos
 
