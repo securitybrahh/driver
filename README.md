@@ -232,6 +232,8 @@ OpenMTP
 
 ## Updates
 
+security updates, ocsp, xprotect, ..
+
 transaction, tree like, atomic, live-security, a/b, incremental, firmware/oem/modems, high-risk-magisk-modules-lsposed-kernelsu-
 
 ## Charging
