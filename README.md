@@ -8,6 +8,10 @@ pci vs hdmi vs thunderbolt
 
 bare metal vs guest.
 
+emulated vs virtual vs translation vs 
+
+arm (graphene) vs x86 (yunohost) vs amd64 (linux) vs isa
+
 # Driver
 
 My daily driver Config
