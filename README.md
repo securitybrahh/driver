@@ -1,5 +1,7 @@
 https://gofetch.fail/
 
+Asahi Fix - https://social.treehouse.systems/@marcan/112238385679496096
+
 [Why you should be running the MicroOS Desktop | Richard Brown](https://youtube.com/watch?v=lKYLF1tA4Ik) 
 
 coreos vs microos vs silverblue vs secureblue vs 
