@@ -14,6 +14,8 @@ arm (graphene) vs x86 (yunohost) vs amd64 (linux) vs isa
 
 # Driver
 
+https://gofetch.fail/, [fix](https://social.treehouse.systems/@marcan/112238385679496096)
+
 My daily driver Config
 
 https://support.apple.com/en-us/HT201222 on mullvad browser autostart
