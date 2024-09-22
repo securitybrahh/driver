@@ -248,3 +248,7 @@ ups
 solar
 high watt battery packs, volt*Ampere -> high
 home elecricity backup
+
+# number
+
+https://jmp.chat/privacy
