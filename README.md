@@ -1,3 +1,5 @@
+https://gofetch.fail/
+
 [Why you should be running the MicroOS Desktop | Richard Brown](https://youtube.com/watch?v=lKYLF1tA4Ik) 
 
 coreos vs microos vs silverblue vs secureblue vs 
