@@ -1,3 +1,5 @@
+you should run an insecure app in a vm, ideally but sandbox-exec is nice as well - eg to run zoom -- https://gist.github.com/cielavenir/02f322e322a2a3555dbf2b38f2fedd59
+
 https://gofetch.fail/
 
 Asahi Fix - https://social.treehouse.systems/@marcan/112238385679496096
